@@ -1,3 +1,7 @@
+# Description
+
+This is a simple project which helps to pull the users details from Github API when github username of that particular person is submited.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
